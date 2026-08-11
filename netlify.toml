@@ -1,9 +1,10 @@
 [build]
   command = "pnpm generate"
-  publish = ".output/public"
+  publish = "dist"
 
 [build.environment]
   NODE_VERSION = "24"
+  PNPM_VERSION = "11.17.0"
 
 [[redirects]]
   from = "/*"

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "shirts",
+    "name": "Shirts",
+    "slug": "shirts",
+    "description": "Everyday essentials — classic fits, premium cotton.",
+    "image": "/images/products/prod-001-1.jpg"
+  },
+  {
+    "id": "pants",
+    "name": "Pants",
+    "slug": "pants",
+    "description": "Chinos, trousers and cargos for every occasion.",
+    "image": "/images/products/prod-005-1.jpg"
+  },
+  {
+    "id": "jackets",
+    "name": "Jackets",
+    "slug": "jackets",
+    "description": "Layered looks — denim, bombers and utility wear.",
+    "image": "/images/products/prod-009-1.jpg"
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "slug": "accessories",
+    "description": "Finishing touches — bags, belts and beyond.",
+    "image": "/images/products/prod-012-1.jpg"
+  }
+]

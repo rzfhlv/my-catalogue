@@ -56,6 +56,7 @@ export default defineNuxtConfig({
       crawlLinks: true,
       routes: ['/'],
     },
+    preset: 'netlify',
   },
 
   image: {
